@@ -1,0 +1,13 @@
+.searchbar form {
+  display: flex;
+  align-items: center;
+}
+.searchbar input {
+  margin-left: 30px;
+  margin-right: 40px;
+}
+
+.searchbar input:hover{
+  border: 1px solid #4A5A67;
+  background: white;
+}
