@@ -1,7 +1,7 @@
 .navbar {
-  background: #f8f8f8;
+  background: #2E4686;
   padding: 20px;
-  color: #2A3741;
+  color: #f8f8f8;
 }
 .navbar nav {
   display: flex;
@@ -11,11 +11,11 @@
 }
 .navbar a.brand {
   margin-right: auto;
-  color: #2a3741;
+  color: #f8f8f8;
   text-decoration: none;
 }
 .navbar a:last-child {
-  color: #2a3741;
+  color: #f8f8f8;
   text-decoration: none;
   margin-left: 40px;
   padding: 8px;
